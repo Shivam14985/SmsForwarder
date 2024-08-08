@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111054914171",
+    "project_id": "sms-forwarder-76c7d",
+    "storage_bucket": "sms-forwarder-76c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111054914171:android:75522b87f94728067458de",
+        "android_client_info": {
+          "package_name": "com.example.shivambhardwaj.asifhood.smsforwarder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTmZBtDiMV_Ft7cyAbLsYCWDIu3a5TVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
